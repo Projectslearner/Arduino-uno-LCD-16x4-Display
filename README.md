@@ -66,15 +66,15 @@ This project demonstrates how to interface a 16x4 LCD with an Arduino to display
 2. **Information Display:** Displaying real-time data such as sensor readings.
 3. **Educational Tools:** Teaching the basics of LCD interfacing with microcontrollers.
 
-## Support
+---
 
-For any issues or further assistance, please contact us:
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
 
-- 🌐 [Projects Learner](https://projectslearner.com)
-- 📧 Email: projectslearner@gmail.com
-- 📸 Instagram
-- 📘 Facebook
-- ▶️ YouTube
-- 📘 LinkedIn
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
 
-Made for you with ❣️ from ProjectsLearner.
+## Made for you with ❣️ from ProjectsLearner
